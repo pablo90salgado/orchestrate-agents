@@ -1,12 +1,7 @@
 ---
 name: orchestrate-agents
-description: |
-  Designs and coordinates multi-agent systems running in parallel or sequence.
-  Use this skill when the user says: "orchestrate agents", "run tasks in parallel",
-  "coordinate subagents", "split this task between agents", "multi-agent workflow",
-  "dispatch agents for X", "agents are conflicting", "how do I run agents together",
-  "parallel subagents", "agent pipeline". Defines roles, manages task dependencies,
-  prevents context conflicts and consolidates results from subagents.
+description: Coordinates multi-agent systems running in parallel or sequence. Defines roles, manages task dependencies, prevents context conflicts and consolidates results from subagents.
+license: MIT
 ---
 
 # Orchestrate Agents
